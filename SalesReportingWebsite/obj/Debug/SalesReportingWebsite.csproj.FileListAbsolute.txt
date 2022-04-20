@@ -1,0 +1,82 @@
+D:\AAD\SalesReportingWebsite\SalesReportingWebsite\bin\roslyn\csc.exe
+D:\AAD\SalesReportingWebsite\SalesReportingWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AAD\SalesReportingWebsite\SalesReportingWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AAD\SalesReportingWebsite\SalesReportingWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AAD\SalesReportingWebsite\SalesReportingWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AAD\SalesReportingWebsite\SalesReportingWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AAD\SalesReportingWebsite\SalesReportingWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AAD\SalesReportingWebsite\SalesReportingWebsite\bin\roslyn\System.Collections.Immutable.dll
+D:\AAD\SalesReportingWebsite\SalesReportingWebsite\bin\roslyn\System.Reflection.Metadata.dll
+D:\AAD\SalesReportingWebsite\SalesReportingWebsite\bin\roslyn\vbc.exe
+D:\AAD\SalesReportingWebsite\SalesReportingWebsite\bin\roslyn\VBCSCompiler.exe
+D:\AAD\SalesReportingWebsite\SalesReportingWebsite\bin\roslyn\VBCSCompiler.exe.config
+D:\AAD\SalesReportingWebsite\SalesReportingWebsite\bin\SalesReportingWebsite.dll.config
+D:\AAD\SalesReportingWebsite\SalesReportingWebsite\bin\SalesReportingWebsite.dll
+D:\AAD\SalesReportingWebsite\SalesReportingWebsite\bin\SalesReportingWebsite.pdb
+D:\AAD\SalesReportingWebsite\SalesReportingWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AAD\SalesReportingWebsite\SalesReportingWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AAD\SalesReportingWebsite\SalesReportingWebsite\obj\Debug\SalesReportingWebsite.csprojResolveAssemblyReference.cache
+D:\AAD\SalesReportingWebsite\SalesReportingWebsite\obj\Debug\SalesReportingWebsite.dll
+D:\AAD\SalesReportingWebsite\SalesReportingWebsite\obj\Debug\SalesReportingWebsite.pdb
+G:\Anime\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\csc.exe
+G:\Anime\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Anime\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Anime\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Anime\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Anime\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Anime\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Anime\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\System.Collections.Immutable.dll
+G:\Anime\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\System.Reflection.Metadata.dll
+G:\Anime\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\vbc.exe
+G:\Anime\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\VBCSCompiler.exe
+G:\Anime\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\VBCSCompiler.exe.config
+G:\Anime\SalesReportingWebsite-master\SalesReportingWebsite\bin\SalesReportingWebsite.dll.config
+G:\Anime\SalesReportingWebsite-master\SalesReportingWebsite\bin\SalesReportingWebsite.dll
+G:\Anime\SalesReportingWebsite-master\SalesReportingWebsite\bin\SalesReportingWebsite.pdb
+G:\Anime\SalesReportingWebsite-master\SalesReportingWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Anime\SalesReportingWebsite-master\SalesReportingWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Anime\SalesReportingWebsite-master\SalesReportingWebsite\obj\Debug\SalesReportingWebsite.dll
+G:\Anime\SalesReportingWebsite-master\SalesReportingWebsite\obj\Debug\SalesReportingWebsite.pdb
+G:\Anime\SalesReportingWebsite-master\SalesReportingWebsite\obj\Debug\SalesReportingWebsite.csprojResolveAssemblyReference.cache
+D:\AAD2\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\csc.exe
+D:\AAD2\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AAD2\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AAD2\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AAD2\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AAD2\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AAD2\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AAD2\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\System.Collections.Immutable.dll
+D:\AAD2\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\System.Reflection.Metadata.dll
+D:\AAD2\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\vbc.exe
+D:\AAD2\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\VBCSCompiler.exe
+D:\AAD2\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\VBCSCompiler.exe.config
+D:\AAD2\SalesReportingWebsite-master\SalesReportingWebsite\bin\SalesReportingWebsite.dll.config
+D:\AAD2\SalesReportingWebsite-master\SalesReportingWebsite\bin\SalesReportingWebsite.dll
+D:\AAD2\SalesReportingWebsite-master\SalesReportingWebsite\bin\SalesReportingWebsite.pdb
+D:\AAD2\SalesReportingWebsite-master\SalesReportingWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AAD2\SalesReportingWebsite-master\SalesReportingWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AAD2\SalesReportingWebsite-master\SalesReportingWebsite\obj\Debug\SalesReportingWebsite.csprojResolveAssemblyReference.cache
+D:\AAD2\SalesReportingWebsite-master\SalesReportingWebsite\obj\Debug\SalesReportingWebsite.dll
+D:\AAD2\SalesReportingWebsite-master\SalesReportingWebsite\obj\Debug\SalesReportingWebsite.pdb
+D:\AAD2\SalesReportingWebsite-master\SalesReportingWebsite\bin\AjaxControlToolkit.dll
+C:\Users\rmis\Downloads\SalesReportingWebsite-master (2)\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\csc.exe
+C:\Users\rmis\Downloads\SalesReportingWebsite-master (2)\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rmis\Downloads\SalesReportingWebsite-master (2)\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rmis\Downloads\SalesReportingWebsite-master (2)\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rmis\Downloads\SalesReportingWebsite-master (2)\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rmis\Downloads\SalesReportingWebsite-master (2)\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rmis\Downloads\SalesReportingWebsite-master (2)\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rmis\Downloads\SalesReportingWebsite-master (2)\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rmis\Downloads\SalesReportingWebsite-master (2)\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rmis\Downloads\SalesReportingWebsite-master (2)\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\vbc.exe
+C:\Users\rmis\Downloads\SalesReportingWebsite-master (2)\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\rmis\Downloads\SalesReportingWebsite-master (2)\SalesReportingWebsite-master\SalesReportingWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rmis\Downloads\SalesReportingWebsite-master (2)\SalesReportingWebsite-master\SalesReportingWebsite\bin\SalesReportingWebsite.dll.config
+C:\Users\rmis\Downloads\SalesReportingWebsite-master (2)\SalesReportingWebsite-master\SalesReportingWebsite\bin\SalesReportingWebsite.dll
+C:\Users\rmis\Downloads\SalesReportingWebsite-master (2)\SalesReportingWebsite-master\SalesReportingWebsite\bin\SalesReportingWebsite.pdb
+C:\Users\rmis\Downloads\SalesReportingWebsite-master (2)\SalesReportingWebsite-master\SalesReportingWebsite\bin\AjaxControlToolkit.dll
+C:\Users\rmis\Downloads\SalesReportingWebsite-master (2)\SalesReportingWebsite-master\SalesReportingWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rmis\Downloads\SalesReportingWebsite-master (2)\SalesReportingWebsite-master\SalesReportingWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rmis\Downloads\SalesReportingWebsite-master (2)\SalesReportingWebsite-master\SalesReportingWebsite\obj\Debug\SalesReportingWebsite.dll
+C:\Users\rmis\Downloads\SalesReportingWebsite-master (2)\SalesReportingWebsite-master\SalesReportingWebsite\obj\Debug\SalesReportingWebsite.pdb
+C:\Users\rmis\Downloads\SalesReportingWebsite-master (2)\SalesReportingWebsite-master\SalesReportingWebsite\obj\Debug\SalesReportingWebsite.csprojResolveAssemblyReference.cache
